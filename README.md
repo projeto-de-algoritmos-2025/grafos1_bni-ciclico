@@ -19,6 +19,11 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 **Linguagem**: C<br>
 Não há necessidade de baixar nada. Basta ter uma conta no LeetCode que já terá acesso ao exercícios e ao ambiente de execução da própria plataforma.
 
+- https://leetcode.com/problems/binary-tree-maximum-path-sum/description/
+- https://leetcode.com/problems/longest-cycle-in-a-graph/description/
+- https://leetcode.com/problems/shortest-cycle-in-a-graph/description/
+- https://leetcode.com/problems/build-a-matrix-with-conditions/description
+
 ## Vídeo
 Para acessar à explicação dos exercício, basta acessar ao seguinte link disponível no YouTube:
 
